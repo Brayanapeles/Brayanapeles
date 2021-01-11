@@ -19,10 +19,10 @@ https://www.facebook.com/brayan.apeles.5/
 </p>
 <p>
 <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-arthur-74b0b91a2/" />https://www.linkedin.com/in/brayan-apeles-06833b1b8/</a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brayan-apeles-74b0b91a2/" />https://www.linkedin.com/in/brayan-apeles-06833b1b8/</a>
 </p>
 <p>
 <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/pedroh.arthur/?hl=pt-br"/>https://www.instagram.com/brayan_apeles/</a>
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/brayan_apeles/?hl=pt-br"/>https://www.instagram.com/brayan_apeles/</a>
 </p>
  
