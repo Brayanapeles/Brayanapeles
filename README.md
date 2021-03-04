@@ -2,7 +2,7 @@
 
 
 <p>👨‍🎓 Estudante no curso Técnico de Desenvolvimento de Sistemas no Senai</p>
-<p>🛠 Ferramentas: HTML5, CSS3, JAVA(POO)</p>
+<p>🛠 Ferramentas: HTML5, CSS3, JAVA(POO), JAVASCRIPT, PHP E KOOTLIN</p>
 <p>📪 Contatos: </p>
 <p>
   
